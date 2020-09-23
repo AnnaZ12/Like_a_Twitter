@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Like_a_Twitter/static/css/main.6f56cabc.chunk.css",
+    "main.js": "/Like_a_Twitter/static/js/main.6d1303ef.chunk.js",
+    "main.js.map": "/Like_a_Twitter/static/js/main.6d1303ef.chunk.js.map",
+    "runtime-main.js": "/Like_a_Twitter/static/js/runtime-main.df350aa0.js",
+    "runtime-main.js.map": "/Like_a_Twitter/static/js/runtime-main.df350aa0.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/Like_a_Twitter/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.00c34d78.chunk.js": "/Like_a_Twitter/static/js/2.00c34d78.chunk.js",
+    "static/js/2.00c34d78.chunk.js.map": "/Like_a_Twitter/static/js/2.00c34d78.chunk.js.map",
+    "index.html": "/Like_a_Twitter/index.html",
+    "precache-manifest.d72cb3473b57dbaf14e62c170ae62c30.js": "/Like_a_Twitter/precache-manifest.d72cb3473b57dbaf14e62c170ae62c30.js",
+    "service-worker.js": "/Like_a_Twitter/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/Like_a_Twitter/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.6f56cabc.chunk.css.map": "/Like_a_Twitter/static/css/main.6f56cabc.chunk.css.map",
+    "static/js/2.00c34d78.chunk.js.LICENSE.txt": "/Like_a_Twitter/static/js/2.00c34d78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df350aa0.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.00c34d78.chunk.js",
+    "static/css/main.6f56cabc.chunk.css",
+    "static/js/main.6d1303ef.chunk.js"
+  ]
+}
