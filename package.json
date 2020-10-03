@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://annaz12.github.io/Like_a_Twitter",
+  "homepage": "https://github.com/AnnaZ12/Like_a_Twitter",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -40,5 +40,12 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaZ12/Like_a_Twitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnnaZ12/Like_a_Twitter/issues"
   }
 }
